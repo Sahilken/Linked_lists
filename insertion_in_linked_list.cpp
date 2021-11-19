@@ -71,6 +71,7 @@ int main()
     add_at_end(head,24);
     add_at_end(head,22);
     add_at_end(head,47);
+    add_at_end(head,66);
     print_node(head);
     head=add_beg(head,88);
     printf("\n");
